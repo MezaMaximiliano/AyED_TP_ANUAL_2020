@@ -1,0 +1,125 @@
+1;David Alejandro Arambulo Avila
+2;Maximiliano Marcelo Meza
+3;Maximiliano Aragoz
+4;Elias Nicolas Lischinsky
+5;Lautaro Nahuel Gonzalez
+1;Pilar FernÃ¡ndez
+2;Joel Leonardo Suh
+3;Facundo Jesus Vattuone
+4;Gabriel Iair Schlafman
+5;SebastiÃ¡n Antonio PeÃ±aloza Zelaya
+1;Luciano Schirripa
+2;Rodrigo Alejandro Figueredo
+3;Joaquin Solari Parravicini
+4;Joshua Dante Morales Iglesias
+5;AgustÃ­n TomÃ¡s Vidaurreta
+1;Nahuel Dorin Kraushart
+2;Valentina LujÃ¡n Rau Robayo
+3;IÃ±aki Matias Acacia
+4;Nicolas Degano
+5;Milagros Ramos
+1;Martina Del Rosario Recalde
+2;Augusto NicolÃ¡s Fuentes
+3;Tomas Ezama
+4;Ignacio Javier Tantucci
+5;Francisco Matias Calo
+1;Mauricio Lopez Llorenty
+2;Kevin Emanuel Oropeza Barquet
+3;Melissa Abigail Farina
+4;Angel Ricardo Duin Chacon
+5;Heber Hugo Resquin
+1;Guido Agustin Insua
+2;Eduardo Alfredo Mogollon Cuenca
+3;Gabriel NicolÃ¡s LÃ³pez
+4;Lucas Gaston Vega
+5;Rodrigo Alejandro Gutson
+1;Franco Ramirez Tosi
+2;Nahuel Franco Lucana Delgadillo
+3;AgustÃ­n Benitez
+4;Martin Fernando Fedorenko
+5;Pablo Miguel Ortiz
+1;Luciano Bernabe Lobo Romero
+2;Emanuel Prima
+3;Federico Nicolas Hartwig Cardozo
+4;Ludmila Naya
+5;Cristian Javier Molina
+1;Stephanie Denise Wasiuchnik
+2;Lucas Zisis Dimoulas
+3;Anna Catherine Vidal
+4;Pablo Nicolas Palacio
+5;Federico Julian Alamino
+1;Exequiel Beker
+2;Valentin Nicolas Corona
+3;Valentin Maximiliano Benito
+4;Natalia Gabriela Bovarines
+5;Maria Alicia PiÃ±eiro
+1;Matias Ariel Leon
+2;Alejo NicolÃ¡s Sandrini
+3;Alexander Flores Suntura
+4;Aran Adriel
+5;Juan Ignacio Felipe Brea
+1;Francisco Cicerchia
+2;Alexis Brian Mango
+3;Gonzalo Gabriel David Lopez Cabello
+4;Daniela Luisina Bello
+5;Joaquin Bargiela
+1;Matias Alejandro Lastra
+2;Florencia Ayelen Gerez
+3;Diego Matias Garraza Cornelio
+4;Jeferson Guillen Huari
+5;Dante Ball
+1;TomÃ¡s JuliÃ¡n Antonio
+2;NicolÃ¡s Agustin Petruzzi
+3;TomÃ¡s Manuel Watson
+4;Alejandro Gabriel Villarreal
+5;Jonathan Agustin Chambi Huaca
+1;Cielo Celeste Guadalupe Murga
+2;Julian Dellacasa Ponce
+3;Joaquin AgÃ¼ero
+4;Matias Federico Angelani
+5;Dylan Brandon Hurtado Chuca
+1;Sofia Beatriz Sosa
+2;Lucas Ezequiel Campi
+3;Micaela Cecilia Omahna
+4;Maximiliano Fiandrino
+5;Gustavo Javier Carbonell Tato
+1;Agustin Sebastian De La Rua Fernandez
+2;Christian Leonel Ibarra
+3;Esteban Lopez Fain Binda
+4;Luciano JoaquÃ­n Castro
+5;Ramon Alejandro Alicando Abreu
+1;HernÃ¡n Ezequiel Charles
+2;Luciana Milagros Caceres
+3;Valeria Soledad Bellanza
+4;Nicolas AgustÃ­n Lucena
+5;Veronica Yanina Arias
+1;Ezequiel Gonzalo Barcelo Morelli
+2;Agustina Razanov
+3;Maximiliano IvÃ¡n Moyano Fontana
+4;Juan Martin Cruz
+5;Tadeo Elli
+1;JUAN PABLO VILLALBA
+2;Ignacio Franco Giussani
+3;Carlos Alberto Sosa
+4;Lucas SebastiÃ¡n Battaglia
+5;Natalia Maquieira
+1;Melany Carla Gassmann
+2;Ariel Goldfryd
+3;Sebastian Ariel Kulevicius
+4;Camila Sofia Fernandez
+5;Martin Kohan
+1;Ignacio Kennedy
+2;Esteban Hurtado
+3;Alejandra Laura Isola
+4;Nahuel Terrazas
+5;Nazareno Gamero
+1;Federico Kenji Nakamura
+2;Jhon Alberto Honorio Aroa
+3;Joaquin Martinez
+4;SebastiÃ¡n Ballejos
+5;Alex Damian Urrels
+1;Fernando Cruz Mamani
+2;Juan Ignacio Schuhmann
+3;Arsenio Omar Quiroz
+4;Evelyn Denisse Saadjian
+5;Lucas Matias Lamanna
